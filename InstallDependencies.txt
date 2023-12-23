@@ -1,0 +1,29 @@
+Project Dependencies:
+
+1. TensorFlow==2.5.0
+   - Description: An open-source machine learning framework.
+   - Installation: pip install tensorflow==2.5.0
+
+2. Keras==2.4.3
+   - Description: High-level neural networks API.
+   - Installation: pip install keras==2.4.3
+
+3. NumPy==1.21.0
+   - Description: Fundamental package for scientific computing with Python.
+   - Installation: pip install numpy==1.21.0
+
+4. Matplotlib==3.4.2
+   - Description: Comprehensive library for creating static, animated, and interactive plots.
+   - Installation: pip install matplotlib==3.4.2
+
+5. Scikit-learn==0.24.2
+   - Description: Simple and efficient tools for machine learning, including classification, regression, clustering, and more.
+   - Installation: pip install scikit-learn==0.24.2
+
+6. OpenCV==4.5.2
+   - Description: Open source computer vision and machine learning software library.
+   - Installation: pip install opencv-python==4.5.2
+
+7. ONNX==1.10.1
+   - Description: Open Neural Network Exchange (ONNX) is an open format to represent deep learning models.
+   - Installation: pip install onnx==1.10.1
